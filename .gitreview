@@ -1,0 +1,5 @@
+[gerrit]
+host=gerrit-github-bunko
+port=29428
+project=iSeigoTanimura/testrepo2.git
+defaultbranch=master
